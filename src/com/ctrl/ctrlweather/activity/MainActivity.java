@@ -1,4 +1,7 @@
-package com.ctrl.ctrlweather;
+package com.ctrl.ctrlweather.activity;
+
+import com.ctrl.ctrlweather.R;
+import com.ctrl.ctrlweather.R.layout;
 
 import android.app.Activity;
 import android.os.Bundle;
